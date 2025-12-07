@@ -27,3 +27,5 @@ BOT_CONFIGS = [
         "bot_token": "sfgsfgsfgsdV8x1Nn0M7uuOpdjYCXOygc9vOTYSU"    # <-- Bot 1 Token
     }
 ]
+
+AUTH_CHANNEL = -123234234296
